@@ -1,0 +1,45 @@
+Streams -> way to read / write data from IO devices 
+Input -> read
+Output  -> write
+
+Byte stream - binary data -> Stream classes 
+Character Stream - character data -> Reader Writer classes
+
+
+FileInput/FileOutput
+
+DataInputStream
+BufferedInputStream -> Temporary storage is maintained -> much faster -> 8kb
+
+This is a good day -> string -> send it over a stream -> print on console 
+
+Reader/Writer -> text data -> characters -> ascii code -> put onto stream
+encoding/decoding -> utf8, utf16....-> 
+unicode characters -> 
+
+
+aa#aa -> converted to byte
+
+
+Objects onto a file -> ?
+
+Student { Object } -> sobj -> id,name,address -> file
+
+ObjectInput/OutputStreams
+
+Serialization/Marshalling
+Deserialization/Unmarshalling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
